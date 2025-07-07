@@ -1,0 +1,4 @@
+PORT=5050
+GITHUB_TOKEN=your_github_token_here
+MONGO_URI=your_mongodb_atlas_uri
+GITHUB_REPOS=freeCodeCamp/freeCodeCamp,facebook/react,vercel/next.js
